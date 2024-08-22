@@ -1,4 +1,5 @@
 📦 Tempus Case Study
+
 Hello!
 Welcome to my case study on Tempus. This document provides a detailed analysis of the company's business activities, trends within the AI domain, and strategic insights derived from extensive research. Dive into the exploration of Tempus's operations and discover recommendations based on thorough evaluation.
 
