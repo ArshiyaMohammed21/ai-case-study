@@ -3,8 +3,10 @@ Case Study
 
 <img width="517" alt="Screenshot 2024-08-22 at 6 37 20 PM" src="https://github.com/user-attachments/assets/05d7b645-8829-4265-a64c-3fba3fcb8c8e">
 
+
 Hello!
 Welcome to my case study on Tempus. This document provides a detailed analysis of the company's business activities, trends within the AI domain, and strategic insights derived from extensive research. Dive into the exploration of Tempus's operations and discover recommendations based on thorough evaluation.
+
 
 🌟 Highlights
 
@@ -78,6 +80,6 @@ Technologies required for this include:
 Expanding into early cancer detection would strengthen Tempus’s market position and drive further advancements in medicine and healthcare technology.
 
 Resources:
-(https://www.pathai.com)
-(https://www.fool.com/investing/2024/08/21/why-tempus-ai-stock-skyrocketed-nearly-22-higher-t/)
-(https://seekingalpha.com/article/4716274-tempus-ai-deploying-ai-in-precision-medicine-initiate-with-buy)
+-(https://www.pathai.com)
+-(https://www.fool.com/investing/2024/08/21/why-tempus-ai-stock-skyrocketed-nearly-22-higher-t/)
+-(https://seekingalpha.com/article/4716274-tempus-ai-deploying-ai-in-precision-medicine-initiate-with-buy)
