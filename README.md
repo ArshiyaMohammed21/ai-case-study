@@ -1,5 +1,6 @@
 📦 [Tempus](https://www.tempus.com)
 Case Study
+<img width="939" alt="Screenshot 2024-08-22 at 6 33 35 PM" src="https://github.com/user-attachments/assets/083fffc7-bb79-4895-9852-96270fedac21">
 
 Hello!
 Welcome to my case study on Tempus. This document provides a detailed analysis of the company's business activities, trends within the AI domain, and strategic insights derived from extensive research. Dive into the exploration of Tempus's operations and discover recommendations based on thorough evaluation.
@@ -31,6 +32,7 @@ A quote from Lefkofsky:
 > "Businesses are best when there is some personal motivation, when you are trying to solve a problem that is personal to you."
 
 ## Business Activities
+<img width="269" alt="Screenshot 2024-08-22 at 6 32 56 PM" src="https://github.com/user-attachments/assets/31feae69-efc5-4955-8831-f84dd201423e">
 
 Tempus addresses the challenge of selecting optimal treatments due to insufficient genetic information. By collecting and analyzing patients' genetic data, Tempus enhances the personalization of healthcare. Their platform supports doctors, hospitals, and healthcare providers by providing critical data for more effective treatment decisions.
 
@@ -71,3 +73,6 @@ Technologies required for this include:
 Expanding into early cancer detection would strengthen Tempus’s market position and drive further advancements in medicine and healthcare technology.
 
 Resources:
+(https://www.pathai.com)
+(https://www.fool.com/investing/2024/08/21/why-tempus-ai-stock-skyrocketed-nearly-22-higher-t/)
+(https://seekingalpha.com/article/4716274-tempus-ai-deploying-ai-in-precision-medicine-initiate-with-buy)
