@@ -1,6 +1,7 @@
 📦 [Tempus](https://www.tempus.com)
 Case Study
-<img width="939" alt="Screenshot 2024-08-22 at 6 33 35 PM" src="https://github.com/user-attachments/assets/083fffc7-bb79-4895-9852-96270fedac21">
+
+<img width="517" alt="Screenshot 2024-08-22 at 6 37 20 PM" src="https://github.com/user-attachments/assets/05d7b645-8829-4265-a64c-3fba3fcb8c8e">
 
 Hello!
 Welcome to my case study on Tempus. This document provides a detailed analysis of the company's business activities, trends within the AI domain, and strategic insights derived from extensive research. Dive into the exploration of Tempus's operations and discover recommendations based on thorough evaluation.
