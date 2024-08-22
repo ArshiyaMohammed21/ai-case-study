@@ -25,12 +25,14 @@ I am Arshiya Mohammed and I'm majoring in Electrical and Computer Engineering.
 # Overview and Origin
 
 This case study will focus on Tempus, Inc., a medical technology company that uses AI to advance precision medicine. Founded in 2015 by Eric Lefkofsky, who is also known for co-founding Groupon, Tempus aims to revolutionize cancer care through AI. Lefkofsky received his degrees from the University of Michigan, including a law degree. 
-
-[Eric Lefkofsky](https://lefkofsky.com) was inspired to start Tempus after his wife’s breast cancer diagnosis in 2014. His goal was to create a platform that would allow AI to improve cancer care and precision medicine. Tempus has raised over $1.3 billion from investors such as Revolution Growth, New Enterprise Associates, and Baillie Gifford.
-<img width="269" alt="Screenshot 2024-08-22 at 6 32 56 PM" src="https://github.com/user-attachments/assets/31feae69-efc5-4955-8831-f84dd201423e">
-
 A quote from Lefkofsky:
 > "Businesses are best when there is some personal motivation, when you are trying to solve a problem that is personal to you."
+
+[Eric Lefkofsky](https://lefkofsky.com) was inspired to start Tempus after his wife’s breast cancer diagnosis in 2014. His goal was to create a platform that would allow AI to improve cancer care and precision medicine. Tempus has raised over $1.3 billion from investors such as Revolution Growth, New Enterprise Associates, and Baillie Gifford.
+
+<img width="269" alt="Screenshot 2024-08-22 at 6 32 56 PM" src="https://github.com/user-attachments/assets/31feae69-efc5-4955-8831-f84dd201423e">
+
+
 
 ## Business Activities
 
