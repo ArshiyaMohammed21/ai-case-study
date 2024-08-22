@@ -49,7 +49,7 @@ Tempus stands out by integrating clinical and molecular data, offering a deep an
 
   <img width="690" alt="Screenshot 2024-08-22 at 6 34 33 PM" src="https://github.com/user-attachments/assets/a51faea5-18dd-45d1-b800-89897680b6ad">
 
-### Landscape
+## Landscape
 
 Tempus operates in the healthcare technology and precision medicine sectors, which have experienced significant growth, particularly with advances in big data and AI. The healthcare industry has increasingly adopted AI for predicting patient outcomes and optimizing treatment plans. Other notable companies in this field include:
 
@@ -59,7 +59,7 @@ Tempus operates in the healthcare technology and precision medicine sectors, whi
 - Grail
 - IBM Watson Health
 
-#### Results
+## Results
 
 Tempus has made a substantial impact on the industry, particularly in precision medicine. They have developed one of the largest digital libraries of molecular and clinical data, improving their data infrastructure and forming numerous partnerships with major healthcare providers.
 
@@ -69,7 +69,7 @@ Key success metrics in this field include:
 
 Tempus excels in these areas, contributing to better patient outcomes through personalized treatment plans and achieving high adoption rates among healthcare providers.
 
-##### Recommendations
+### Recommendations
 
 To further enhance its impact, Tempus could develop methods for early cancer detection. By expanding their services to include genetic testing for early cancer risk assessment, Tempus could improve early diagnosis and prevention.
 
