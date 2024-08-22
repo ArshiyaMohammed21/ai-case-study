@@ -27,12 +27,12 @@ I am Arshiya Mohammed and I'm majoring in Electrical and Computer Engineering.
 This case study will focus on Tempus, Inc., a medical technology company that uses AI to advance precision medicine. Founded in 2015 by Eric Lefkofsky, who is also known for co-founding Groupon, Tempus aims to revolutionize cancer care through AI. Lefkofsky received his degrees from the University of Michigan, including a law degree. 
 
 [Eric Lefkofsky](https://lefkofsky.com) was inspired to start Tempus after his wife’s breast cancer diagnosis in 2014. His goal was to create a platform that would allow AI to improve cancer care and precision medicine. Tempus has raised over $1.3 billion from investors such as Revolution Growth, New Enterprise Associates, and Baillie Gifford.
+<img width="269" alt="Screenshot 2024-08-22 at 6 32 56 PM" src="https://github.com/user-attachments/assets/31feae69-efc5-4955-8831-f84dd201423e">
 
 A quote from Lefkofsky:
 > "Businesses are best when there is some personal motivation, when you are trying to solve a problem that is personal to you."
 
 ## Business Activities
-<img width="269" alt="Screenshot 2024-08-22 at 6 32 56 PM" src="https://github.com/user-attachments/assets/31feae69-efc5-4955-8831-f84dd201423e">
 
 Tempus addresses the challenge of selecting optimal treatments due to insufficient genetic information. By collecting and analyzing patients' genetic data, Tempus enhances the personalization of healthcare. Their platform supports doctors, hospitals, and healthcare providers by providing critical data for more effective treatment decisions.
 
@@ -41,6 +41,8 @@ Tempus stands out by integrating clinical and molecular data, offering a deep an
 - **Artificial Intelligence (AI)** and **Machine Learning**: For analyzing complex data and identifying treatment patterns.
 - **Natural Language Processing (NLP)**: To extract and summarize important information from patient reports.
 - **Genomic Sequencing**: To analyze DNA and identify genetic mutations that influence treatment decisions.
+
+  <img width="690" alt="Screenshot 2024-08-22 at 6 34 33 PM" src="https://github.com/user-attachments/assets/a51faea5-18dd-45d1-b800-89897680b6ad">
 
 ### Landscape
 
